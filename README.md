@@ -1,2 +1,2 @@
-# Salary-Prediction-Portfolio
+# Salary-Prediction-EDA
 Salary Prediction Project(Python)
